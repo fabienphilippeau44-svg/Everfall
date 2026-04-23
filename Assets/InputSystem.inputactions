@@ -194,6 +194,17 @@
                 },
                 {
                     "name": "",
+                    "id": "bc5dbe98-08d9-4016-8629-5864b58839c1",
+                    "path": "<Keyboard>/m",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftObject",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "1986500b-cd76-457b-93dd-c49232a491e9",
                     "path": "<Keyboard>/e",
                     "interactions": "",
@@ -207,6 +218,17 @@
                     "name": "",
                     "id": "88330fc1-4fb0-4533-b499-68915976f934",
                     "path": "<Gamepad>/rightShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightObject",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e69f7222-bffc-431b-8906-6bb91741ba25",
+                    "path": "<Keyboard>/comma",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
